@@ -10,4 +10,8 @@ public class Module_A {
 		
 		return 1;
 	}
+
+	public static void main(String [] args){
+		System.out.println("testing hello world on jenkins");
+	}
 }
